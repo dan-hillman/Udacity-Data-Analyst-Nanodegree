@@ -1,1 +1,0 @@
-To view the fully interactive visualization, please [click here to view the project on my profile on Tableau Public.](https://public.tableau.com/views/ProsperLoansBorrowerAPRStatedMonthlyIncomeandCreditScorebyOccupation/Sheet1?:embed=y&:display_count=yes)
