@@ -1,4 +1,4 @@
 # Data Visualization with Tableau: Prosper Loan Data by Occupation
 ## To see the fully interactive visualization, [please visit my profile on Tableau Public by clicking here](https://public.tableau.com/views/ProsperLoansBorrowerAPRStatedMonthlyIncomeandCreditScorebyOccupation/Sheet1?:embed=y&:display_count=yes).
-
+This visualization shows the relationship between different occupations’ average APR, average monthly income, and average low-range credit score. Each occupation’s low-range credit score is denoted by the intensity of the color blue (lighter for lower, darker for higher). The visualization reveals an interesting insight: as monthly income and/or credit score increases, APR generally decreases. The reason for this phenomenon is that financial institutions charge higher interest to individuals who are at greater risk of defaulting on a loan.
 ![Project 8 Visualization](https://github.com/tdanhillman/Udacity-Data-Analyst-Nanodegree/blob/master/data_visualization_project_Dan_Hillman.png?raw=true)
